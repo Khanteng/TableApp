@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TableApp</string>
+    <!-- Menu Drawer String -->
+    <string name="ad_cat1">Обьявление</string>
+    <string name="ad_my_ads">Мой Обьявление</string>
+    <string name="ad_car">Машины</string>
+    <string name="ad_pc">Компьютеры</string>
+    <string name="ad_smartphone">Смартфоны</string>
+    <string name="ad_dm">Бытовая Техника</string>
+    <string name="ac_sign_up">Регистрация</string>
+    <string name="ac_sign_in">Вход</string>
+    <string name="ac_sign_out">Выход</string>
+</resources>
