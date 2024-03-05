@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798021785690",
+    "project_id": "tableapp-57f04",
+    "storage_bucket": "tableapp-57f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798021785690:android:496c9f5deb1c7cc31aa063",
+        "android_client_info": {
+          "package_name": "com.example.tableapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_J9YmZAn7SU1U1NHdRSeZ3OX7qlnHkas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
